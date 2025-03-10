@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+
+# Expo files
+.expo/
+.expo-shared/
+
+# Build outputs
+dist/
+build/
+android/app/build/
+ios/Pods/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.lock
+node_modules
